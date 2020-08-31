@@ -1,0 +1,475 @@
+[
+  {
+    "_component": "stacklist",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Manusia sebagai makhluk sosial",
+    "displayTitle": "",
+    "body": "<p>Manusia dikatakan sebagai makhluk sosial&nbsp;karena beberapa alasan, diantaranya adalah</p>",
+    "_id": "5f323a3a6e73d820bca2283a",
+    "_parentId": "5f3230db6e73d820bca2280a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Manusia tunduk pada peraturan, norma sosial.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Perilaku manusia mengharapkan suatu penilaian dari orang lain.</p>",
+        "next": ""
+      },
+      {
+        "body": "<p>Manusia memiliki kebutuhan untuk berinteraksi dengan orang lain.</p>",
+        "next": "Dan"
+      },
+      {
+        "body": "<p>Potensi manusia akan berkembang bila ia hidup ditengah – tengah manusia.</p>",
+        "next": ""
+      }
+    ],
+    "_button": {
+      "startText": "Klik disini untuk melihat alasannya",
+      "continueText": "Selanjutnya"
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "bg-scroll bg-scroll-title bg-scroll-body",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PENGERTIAN INTERAKSI SOSIAL",
+    "displayTitle": "PENGERTIAN INTERAKSI SOSIAL",
+    "body": "<p>Interaksi adalah proses dimana orang-orang berkomunikasi saling mempengaruhi dalam pikiran dan tindakan. Seperti kita ketahui bahwa manusia dalam kehidupan sehari-hari tidaklah lepas dari hubungan satu dengan yang lain. Interaksi sosial merupakan hubungan timbal balik antara individu dengan individu, antara kelompok dengan kelompok, antara individu dengan kelompok.</p>",
+    "_id": "5f323c876e73d820bca2283b",
+    "_parentId": "5f3230db6e73d820bca2280b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Faktor dan syarat",
+    "displayTitle": "",
+    "body": "",
+    "_id": "5f323ec26e73d820bca2283e",
+    "_parentId": "5f323e896e73d820bca2283d",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Syarat Interaksi Sosial",
+        "body": "<ol><li>Adanya kontak sosial</li><li>Adanya komunikasi</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Faktor Yang Mendasari Interaksi Sosial",
+        "body": "<p>Adapun faktor–faktor yang mendasari berlangsungnya interaksi sosial, yaitu:</p><ol><li>faktor imitasi</li><li>faktor sugesti</li><li>faktor identifikasi</li><li>faktor simpati</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PROSES SOSIAL",
+    "displayTitle": "PROSES SOSIAL",
+    "body": "<p>Menurut Gillin and Gillin, ada dua macam proses sosial yang timbul sebagai akibat adanya interaksi sosial, yaitu:</p>",
+    "_id": "5f3244ac6e73d820bca22842",
+    "_parentId": "5f3243dd6e73d820bca22840",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Proses Asosiatif",
+        "body": "<ol><li>Kerja sama (Cooperation)</li><li>Akomodasi (Accomodation)</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Proses Disasosiatif",
+        "body": "<ol><li>Persaingan (competition)</li><li>​​​​​​​Kontraversi (Contravertion)</li><li>​​​​​​​Pertentangan (Conflict)</li></ol>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PROSES ASOSIATIF",
+    "displayTitle": "PROSES ASOSIATIF",
+    "body": "",
+    "_id": "5f3246166e73d820bca22845",
+    "_parentId": "5f3245656e73d820bca22843",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "Klik pada pin",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/2fae4b4f06fbbd19ab251c97b0d9fba2dcd307a5.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "",
+    "_hidePagination": true,
+    "_canCycleThroughPagination": false,
+    "_useGraphicsAsPins": false,
+    "_items": [
+      {
+        "title": "​​​​​​​Cooperation",
+        "_ariaLevel": 0,
+        "body": "<p dir=\"ltr\">Proses penerimaan unsur-unsur baru dalam kepemimpinan atau pelaksanaan politik dalam suatu organisasi, sebagai salah satu cara untuk menghindari terjadinya kegoncangan dalam stabilitas organisasi yang bersangkutan</p>",
+        "strapline": "​​​​​​​Cooperation",
+        "_graphic": {
+          "src": "course/en/assets/5ed376b6a24c60e12214c7771539708a1244032f.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 22
+      },
+      {
+        "title": "Bargaining",
+        "_ariaLevel": 0,
+        "body": "<p>Pelaksanaan perjanjian mengenai pertukaran barang dan jasa antara dua organisasi atau lebih.</p>",
+        "strapline": "Bargaining",
+        "_graphic": {
+          "src": "course/en/assets/fdacc1ccdb29fe2e9c0deec7e8b6863c2f9fe658.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 28,
+        "_top": 22
+      },
+      {
+        "title": "Coalition",
+        "_ariaLevel": 0,
+        "body": "<p>Kombinasi antara dua organisasi atau lebih yang mempunyai tujuan yang sama.</p>",
+        "strapline": "Coalition",
+        "_graphic": {
+          "src": "course/en/assets/4c5b897758678cab360791f2f1fe73d679610165.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 16,
+        "_top": 54
+      },
+      {
+        "title": "Coercion",
+        "_ariaLevel": 0,
+        "body": "<p>Suatu bentuk akomodasi yang prosesnya dilaksanakan karena adanya paksaan.</p>",
+        "strapline": "Coercion",
+        "_graphic": {
+          "src": "course/en/assets/599c6d633c1952b4f379628987ef3c20bb7c74a1.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 53,
+        "_top": 16
+      },
+      {
+        "title": "Compromise",
+        "_ariaLevel": 0,
+        "body": "<p>Suatu bentuk akomodasi, di mana pihak yang terlibat masing-masing mengurangi tuntutannya, agar tercapai suatu penyelesaian terhadap perselisihan yang ada.</p>",
+        "strapline": "Compromise",
+        "_graphic": {
+          "src": "course/en/assets/e9c6c4de0bf1912820aa8cc55862b47d5f9f7818.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 82,
+        "_top": 16
+      },
+      {
+        "title": "Arbitration",
+        "_ariaLevel": 0,
+        "body": "<p>Suatu cara untuk mencapai compromise apabila pihak yang berhadapan tidak sanggup untuk mencapainya sendiri</p>",
+        "strapline": "Arbitration",
+        "_graphic": {
+          "src": "course/en/assets/9c33244c259e36c5e3f6ba6e828a1e5e5fb5e712.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 53,
+        "_top": 42
+      },
+      {
+        "title": "Meditation",
+        "_ariaLevel": 0,
+        "body": "<p>Hampir menyerupai arbiration diundang pihak ke tiga yang retial dalam persoalan yang ada.</p>",
+        "strapline": "Meditation",
+        "_graphic": {
+          "src": "course/en/assets/723c0a74da4c6a96a76e66715fe21e00b71d1b5d.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 68,
+        "_top": 42
+      },
+      {
+        "title": "Conciliation",
+        "_ariaLevel": 0,
+        "body": "<p>Suatu usaha untuk mempertemukan keinginan pihak yang berselisih, bagi tercapainya suatu tujuan bersama.</p>",
+        "strapline": "Conciliation",
+        "_graphic": {
+          "src": "course/en/assets/2d8470ad16007223e97d4da9bbc803fd512c3edd.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 82,
+        "_top": 42
+      },
+      {
+        "title": "Stelemate",
+        "_ariaLevel": 0,
+        "body": "<p>Merupakan suatu akomodasi di mana pihak-pihak yang berkepentingan mempunyai kedudukan yang seimbang, berhenti pada titik tertentu dalam melakukan pertentangan.</p>",
+        "strapline": "Stelemate",
+        "_graphic": {
+          "src": "course/en/assets/ba1a62241f94e8abe9cfbeb3835667cc62c2fca6.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 53,
+        "_top": 65
+      },
+      {
+        "title": "Adjudication",
+        "_ariaLevel": 0,
+        "body": "<p>Perselisihan atau perkara di pengadilan.</p>",
+        "strapline": "Adjudication",
+        "_graphic": {
+          "src": "course/en/assets/6d5e976054af8f22f528beb36e45e71bab6a444e.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 82,
+        "_top": 65
+      }
+    ]
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "PROSES DISASOSIATIF",
+    "displayTitle": "PROSES DISASOSIATIF",
+    "body": "",
+    "_id": "5f3262ce6e73d820bca22867",
+    "_parentId": "5f3262b16e73d820bca22866",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Persaingan (Competition)",
+        "_ariaLevel": 0,
+        "body": "<p>Bentuk interaksi yang dilakukan oleh individu atau kelompok yang bersaing untuk mendapatkan keuntungan tertentu bagi dirinya dengan cara menarik perhatian atau mempertajam prasangka yang telah ada tanpa mempergunakan kekerasan</p>",
+        "_graphic": {
+          "src": "course/en/assets/5f2eb4cd4b151423ef5550ac3e7c6a6ca450c9b5.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Persaingan (Competition)"
+      },
+      {
+        "title": "Pertentangan (Conflict)",
+        "_ariaLevel": 0,
+        "body": "<p>​​​​​​Bentuk interaksi antar individu atau kelompok sosial yang berusaha untuk mencapai tujuannya dengan jalan menentang pihak lain disertai ancaman atau kekerasan.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d1bfe5075aff91c0b440ea0211d6288be61681e8.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Pertentangan (Conflict)"
+      },
+      {
+        "title": " Kontraversi (Contaversion)",
+        "_ariaLevel": 0,
+        "body": "<p>Bentuk interaksi yang berbeda antara persaingan dan pertentangan. Kontaversi ditandai oleh adanya ketidakpastian terhadap diri seseorang, perasaan tidak suka yang disembunyikannya dan kebencian terhadap kepribadian orang, akan tetapi gejala-gejala tersebut tidak sampai menjadi pertentangan atau pertikaian.</p>",
+        "_graphic": {
+          "src": "course/en/assets/a6075c1e4101522686ee7f32b44b652023bf68b0.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": " Kontraversi (Contaversion)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "MANUSIA SEBAGAI MAKHLUK SOSIAL",
+    "displayTitle": "MANUSIA SEBAGAI MAKHLUK SOSIAL",
+    "body": "",
+    "_classes": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClassName": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "lockLast",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3230db6e73d820bca22807",
+    "_type": "page",
+    "_parentId": "course",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bgScroll": {
+      "_isEnabled": true,
+      "_children": "blocks"
+    },
+    "_parallaxbgSwitcher": {
+      "_isActive": true,
+      "_bgoptions": "parallax"
+    },
+    "_backButton": {
+      "_isEnabled": true,
+      "_hideBackButton": true,
+      "_redirectToId": ""
+    }
+  }
+]

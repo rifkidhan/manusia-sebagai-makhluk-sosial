@@ -1,0 +1,194 @@
+[
+  {
+    "title": "Block 1",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 1,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3230db6e73d820bca2280a",
+    "_parentId": "5f3230db6e73d820bca22808",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/1ca4864c9ad9d67af022521b96c7e5b78c42569f.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Proses Sosial",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 2,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3243dd6e73d820bca22840",
+    "_parentId": "5f323e896e73d820bca2283c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Individu",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "no-bg",
+    "_trackingId": 3,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3230db6e73d820bca2280b",
+    "_parentId": "5f3230db6e73d820bca22808",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/697d59db59ad7a1c4036bab25cf5aa53a8924424.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "Interaksi asosiatif",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 4,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3245656e73d820bca22843",
+    "_parentId": "5f323e896e73d820bca2283c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png",
+      "src": "course/en/assets/4f72a2f849eccc233910baad0e5a28d33041908c.png"
+    }
+  },
+  {
+    "title": "Block faktor dan syarat",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 5,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f323e896e73d820bca2283d",
+    "_parentId": "5f3230db6e73d820bca22808",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": "course/en/assets/5cc85c9fa76f4ca8f3cb24b22ed819d2b62f6492.jpg"
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "",
+      "src": ""
+    }
+  },
+  {
+    "title": "PROSES DISASOSIATIF",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 6,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_ariaLevel": 0,
+    "_id": "5f3262b16e73d820bca22866",
+    "_parentId": "5f323e896e73d820bca2283c",
+    "_type": "block",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_bgScroll": {
+      "src": ""
+    },
+    "_parallaxbgSwitcher": {
+      "mobileSrc": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png",
+      "src": "course/en/assets/2d23b89bd1a7f3435e8e8f53799756389390c42f.png"
+    }
+  }
+]
